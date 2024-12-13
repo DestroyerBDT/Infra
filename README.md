@@ -21,12 +21,6 @@ Perfect for those who value their privacy and want to take a stand against intru
 
 Add [Infra's raw file URL](https://raw.githubusercontent.com/DestroyerBDT/Infra/refs/heads/main/Infra.txt) to a **hosts** compatible program
 
-## Compatibility
-
-This filter list is in the **hosts** format and thus it's compatible with the following
-- [AdAway](https://github.com/AdAway/AdAway)
-  - [F-Droid](https://f-droid.org/packages/org.adaway)
-
 # Why Block Meta?
 
 Meta Platforms, formerly known as Facebook, is infamous for its questionable privacy practices. Here's why you might want to consider blocking their services:
