@@ -46,6 +46,7 @@ Happy blocking, and here's to a more peaceful and private digital life! 🛡️�
 *Holds the power key*
 
 **me**: What's the opposite of *Meta*?
+
 **Gemeni**:
 The word "meta" doesn't have a direct antonym. However, depending on the context, you could consider these words:
 - **Infra**: This prefix suggests something below or beneath, contrasting with *meta* which often implies something above or beyond.
@@ -53,4 +54,4 @@ The word "meta" doesn't have a direct antonym. However, depending on the context
 - Actual: This word can be used to contrast with the abstract or theoretical nature often associated with *meta*
 It's important to note that these are not perfect antonyms, and the best choice will depend on the specific context in which you're using the word "meta."
 
-And *Infra* sounded the coolest
+and *Infra* sounded the coolest!
