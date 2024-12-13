@@ -29,6 +29,7 @@ Meta Platforms, formerly known as Facebook, is infamous for its questionable pri
 - **Targeted Advertising**: This data is used to create detailed profiles, which are then sold to advertisers. It's how they make their billions, but at the cost of your privacy.
 - **Security Concerns**: Frequent security breaches and scandals (like Cambridge Analytica) have exposed millions of users' data to unauthorized parties.
 - **Mental Health**: Studies have shown that excessive use of social media platforms like Facebook and Instagram can contribute to anxiety, depression, and poor sleep quality.
+- **Restricting Access for Kids**: Limiting children's exposure to social media can help prevent cyberbullying, reduce screen time, and protect them from inappropriate content. Blocking Meta services can be an effective measure for parents to ensure a safer online environment for their kids.
 
 ## Sleep Better, Live Better
 
