@@ -17,14 +17,17 @@ Welcome to Infra! Aimed at a hosts file to block a wide range of Meta services, 
 
 Perfect for those who value their privacy and want to take a stand against intrusive data practices
 
-#
-# Compatibility
+# Usage
 
-This filter list is in the hosts format and thus it's compatible with the following
+Add [Infra's raw file URL](https://raw.githubusercontent.com/DestroyerBDT/Infra/refs/heads/main/Infra.txt) to a **hosts** compatible program
+
+## Compatibility
+
+This filter list is in the **hosts** format and thus it's compatible with the following
 - [AdAway](https://github.com/AdAway/AdAway)
   - [F-Droid](https://f-droid.org/packages/org.adaway)
 
-## Why Block Meta?
+# Why Block Meta?
 
 Meta Platforms, formerly known as Facebook, is infamous for its questionable privacy practices. Here's why you might want to consider blocking their services:
 
