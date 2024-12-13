@@ -41,7 +41,7 @@ Imagine a world where you no longer spend hours doomscrolling through Facebook, 
 
 Happy blocking, and here's to a more peaceful and private digital life! 🛡️🚫📱
 
-# Why the name *Infra*????
+# Why the name *Infra* ????
 
 *Holds the power key*
 
