@@ -82,7 +82,6 @@
 
 # Portal
 0.0.0.0 portal.facebook.com
-0.0.0.0 www.portal.facebook.com
 
 # Diem (Libra)
 0.0.0.0 diem.com
