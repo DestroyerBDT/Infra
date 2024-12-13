@@ -22,6 +22,7 @@ Perfect for those who value their privacy and want to take a stand against intru
 
 This filter list is in the hosts format and thus it's compatible with the following
 - [AdAway](
+  - [F-Droid](https://f-droid.org/packages/org.adaway)
 
 ## Why Block Meta?
 
