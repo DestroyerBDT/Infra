@@ -16,6 +16,10 @@
 0.0.0.0 scontent.fsnc1-1.fna.fbcdn.net
 0.0.0.0 lookaside.facebook.com
 0.0.0.0 pixel.facebook.com
+0.0.0.0 ads.facebook.com
+0.0.0.0 an.facebook.com
+0.0.0.0 creative.ak.fbcdn.net
+0.0.0.0 external.xx.fbcdn.net[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://github.com/Bundy01/meta-blocklists?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "1")
 
 # WhatsApp
 0.0.0.0 whatsapp.com
@@ -40,6 +44,7 @@
 0.0.0.0 d.instagram.com
 0.0.0.0 help.instagram.com
 0.0.0.0 ssl.instagram.com
+0.0.0.0 ads.instagram.com
 
 # Messenger
 0.0.0.0 messenger.com
@@ -86,3 +91,18 @@
 # Diem (Libra)
 0.0.0.0 diem.com
 0.0.0.0 www.diem.com
+
+# Trackers
+0.0.0.0 atdmt.com
+0.0.0.0 login.facebook.com
+0.0.0.0 bigzipfiles.facebook.com
+0.0.0.0 bigzipfiles2.facebook.com
+0.0.0.0 fbstatic-a.akamaihd.net
+0.0.0.0 graph.instagram.com
+0.0.0.0 graph.oculus.com
+0.0.0.0 oculusgraph.facebook.net
+0.0.0.0 creative.ak.fbcdn.net
+0.0.0.0 z-1-scontent.xx.fbcdn.net
+0.0.0.0 z-2-scontent.xx.fbcdn.net
+0.0.0.0 z-m-static.xx.fbcdn.net
+0.0.0.0 z-p3.static.xx.fbcdn.net
