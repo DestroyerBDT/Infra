@@ -40,3 +40,8 @@ Imagine a world where you no longer spend hours doomscrolling through Facebook, 
 - **Better Privacy**: You can rest easy knowing that your personal data isn't being harvested and sold to the highest bidder.
 
 Happy blocking, and here's to a more peaceful and private digital life! 🛡️🚫📱
+
+# Why the name *Infra*????
+
+*Holds the power key*
+**me**: What's the opposite of *Meta*?
