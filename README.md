@@ -15,7 +15,13 @@ Welcome to Infra! Aimed at a hosts file to block a wide range of Meta services, 
 - Portal
 - Diem (Libra)
 
-Perfect for those who value their privacy and want to take a stand against intrusive data practices.
+Perfect for those who value their privacy and want to take a stand against intrusive data practices
+
+#
+# Compatibility
+
+This filter list is in the hosts format and thus it's compatible with the following
+- [AdAway](
 
 ## Why Block Meta?
 
