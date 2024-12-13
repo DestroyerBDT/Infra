@@ -1,4 +1,4 @@
-# Infra Blocklist
+# Infra Block-list
 
 Welcome to Infra! Aimed at a hosts file to block a wide range of Meta services, including:
 
