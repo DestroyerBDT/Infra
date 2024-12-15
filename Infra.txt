@@ -1,6 +1,6 @@
 # Title: Infra
 # Description: blocks all Meta services
-# Homepage: https://github.com/hagezi/dns-bl
+# Homepage: https://github.com/DestroyerBDT/Infra
 # Last modified: 
 # Version: 2.1
 # Syntax: Hosts
