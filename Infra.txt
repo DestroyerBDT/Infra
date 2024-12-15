@@ -1,3 +1,11 @@
+# Title: Infra
+# Description: blocks all Meta services
+# Homepage: https://github.com/hagezi/dns-bl
+# Last modified: 
+# Version: 2.1
+# Syntax: Hosts (including possible subdomair
+# Number of entries: 141124'
+#
 # Facebook
 0.0.0.0 facebook.com
 0.0.0.0 www.facebook.com
@@ -20,7 +28,7 @@
 0.0.0.0 an.facebook.com
 0.0.0.0 creative.ak.fbcdn.net
 0.0.0.0 external.xx.fbcdn.net[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://github.com/Bundy01/meta-blocklists?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "1")
-
+#
 # WhatsApp
 0.0.0.0 whatsapp.com
 0.0.0.0 www.whatsapp.com
