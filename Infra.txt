@@ -3,8 +3,7 @@
 # Homepage: https://github.com/hagezi/dns-bl
 # Last modified: 
 # Version: 2.1
-# Syntax: Hosts (including possible subdomair
-# Number of entries: 141124'
+# Syntax: Hosts
 #
 # Facebook
 0.0.0.0 facebook.com
@@ -38,7 +37,7 @@
 0.0.0.0 static.whatsapp.net
 0.0.0.0 mms.whatsapp.net
 0.0.0.0 mmg.whatsapp.net
-
+#
 # Instagram
 0.0.0.0 instagram.com
 0.0.0.0 www.instagram.com
@@ -53,53 +52,53 @@
 0.0.0.0 help.instagram.com
 0.0.0.0 ssl.instagram.com
 0.0.0.0 ads.instagram.com
-
+#
 # Messenger
 0.0.0.0 messenger.com
 0.0.0.0 www.messenger.com
 0.0.0.0 m.me
 0.0.0.0 messenger-xyz.com
 0.0.0.0 www.messenger-xyz.com
-
+#
 # Threads
 0.0.0.0 threads.com
 0.0.0.0 www.threads.com
-
+#
 # Meta Quest
 0.0.0.0 oculus.com
 0.0.0.0 www.oculus.com
 0.0.0.0 metaquest.com
 0.0.0.0 www.metaquest.com
-
+#
 # Horizon Worlds
 0.0.0.0 horizon.com
 0.0.0.0 www.horizon.com
 0.0.0.0 horizonworlds.com
 0.0.0.0 www.horizonworlds.com
-
+#
 # Ray-Ban Stories
 0.0.0.0 ray-ban.com
 0.0.0.0 www.ray-ban.com
 0.0.0.0 rayban.com
 0.0.0.0 www.rayban.com
-
+#
 # Mapillary
 0.0.0.0 mapillary.com
 0.0.0.0 www.mapillary.com
-
+#
 # Workplace
 0.0.0.0 workplace.com
 0.0.0.0 www.workplace.com
 0.0.0.0 work.fb.com
 0.0.0.0 workplace.fb.com
-
+#
 # Portal
 0.0.0.0 portal.facebook.com
-
+#
 # Diem (Libra)
 0.0.0.0 diem.com
 0.0.0.0 www.diem.com
-
+#
 # Trackers
 0.0.0.0 atdmt.com
 0.0.0.0 login.facebook.com
