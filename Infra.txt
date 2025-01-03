@@ -5,6 +5,7 @@
 # Version: 2.1
 # Syntax: Hosts
 #
+0.0.0.0 meta.com
 # Facebook
 0.0.0.0 facebook.com
 0.0.0.0 www.facebook.com
