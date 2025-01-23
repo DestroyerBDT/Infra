@@ -1,6 +1,6 @@
 # Infra Block-list
 
-Welcome to Infra! Aimed at a hosts file to block a wide range of Meta services, including:
+Welcome to Infra! Aimed at a hosts file to block a wide range of Meta & X (*Twitter*) services, including:
 
 - Facebook
 - WhatsApp
@@ -14,6 +14,7 @@ Welcome to Infra! Aimed at a hosts file to block a wide range of Meta services, 
 - Workplace
 - Portal
 - Diem (Libra)
+- X (*Twitter*)
 
 Perfect for those who value their privacy and want to take a stand against intrusive data practices
 
