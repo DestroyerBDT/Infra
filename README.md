@@ -21,7 +21,7 @@ A hosts file to block a wide range of Meta & X (*Twitter*) services, including:
 Add [Infra's raw file URL](https://raw.githubusercontent.com/DestroyerBDT/Infra/refs/heads/main/Infra.txt) to a **hosts** compatible program.
 
 > [!NOTE]
-> Everything below is written by AI, this was made only for personal use
+> Everything below is written by AI and modified for aesthetics, this was made only for personal use
 
 # Why Block Meta & X?
 
