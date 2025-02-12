@@ -1,6 +1,6 @@
 # Infra Block-list
 
-Welcome to Infra! Aimed at a hosts file to block a wide range of Meta & X (*Twitter*) services, including:
+A hosts file to block a wide range of Meta & X (*Twitter*) services, including:
 
 - Facebook
 - WhatsApp
@@ -16,11 +16,11 @@ Welcome to Infra! Aimed at a hosts file to block a wide range of Meta & X (*Twit
 - Diem (Libra)
 - X (*Twitter*)
 
-Perfect for those who value their privacy and want to take a stand against intrusive data practices
-
 # Usage
 
 Add [Infra's raw file URL](https://raw.githubusercontent.com/DestroyerBDT/Infra/refs/heads/main/Infra.txt) to a **hosts** compatible program.
+
+
 
 # Why Block Meta & X?
 
