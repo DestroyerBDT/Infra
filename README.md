@@ -20,9 +20,9 @@ Perfect for those who value their privacy and want to take a stand against intru
 
 # Usage
 
-Add [Infra's raw file URL](https://raw.githubusercontent.com/DestroyerBDT/Infra/refs/heads/main/Infra.txt) to a **hosts** compatible program
+Add [Infra's raw file URL](https://raw.githubusercontent.com/DestroyerBDT/Infra/refs/heads/main/Infra.txt) to a **hosts** compatible program.
 
-# Why Block Meta?
+# Why Block Meta & X?
 
 Meta Platforms, formerly known as Facebook, is infamous for its questionable privacy practices. Here's why you might want to consider blocking their services:
 
@@ -31,6 +31,12 @@ Meta Platforms, formerly known as Facebook, is infamous for its questionable pri
 - **Security Concerns**: Frequent security breaches and scandals (like Cambridge Analytica) have exposed millions of users' data to unauthorized parties.
 - **Mental Health**: Studies have shown that excessive use of social media platforms like Facebook and Instagram can contribute to anxiety, depression, and poor sleep quality.
 - **Restricting Access for Kids**: Limiting children's exposure to social media can help prevent cyberbullying, reduce screen time, and protect them from inappropriate content. Blocking Meta services can be an effective measure for parents to ensure a safer online environment for their kids.
+
+X (formerly Twitter) also raises similar concerns:
+
+- **Data Harvesting**: X collects detailed data on users, which can be used for targeted advertising and profiling.
+- **Security Issues**: There have been instances of data breaches and concerns about user data security.
+- **Mental Health**: Prolonged use of platforms like X can contribute to anxiety, stress, and decreased mental well-being.
 
 ## Sleep Better, Live Better
 
