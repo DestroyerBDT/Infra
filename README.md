@@ -23,5 +23,5 @@ A hosts file to block a wide range of Meta, Apple & X (*Twitter*) services, incl
 Add [Infra's raw file URL](https://raw.githubusercontent.com/DestroyerBDT/Infra/refs/heads/main/Infra.txt) to a **hosts** compatible program.
 
 > [!note]
-> This is made for personal use and the companies and services blocked can changed.
+> [This is made for personal use and the companies and services blocked can changed.]
 > Any more services or companies should not be requested.
