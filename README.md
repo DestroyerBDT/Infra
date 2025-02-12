@@ -1,6 +1,6 @@
 # Infra Block-list
 
-A hosts file to block a wide range of Meta & X (*Twitter*) services, including:
+A hosts file to block a wide range of Meta, Apple & X (*Twitter*) services, including:
 
 - Meta
   - Facebook
@@ -16,6 +16,7 @@ A hosts file to block a wide range of Meta & X (*Twitter*) services, including:
   - Portal
   - Diem (Libra)
 - X (*Twitter*)
+- Apple
 
 # Usage
 
