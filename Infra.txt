@@ -4,12 +4,12 @@
 # Last modified: 13 Dec 2024
 # Version: 4.1
 # Syntax: Hosts
-#
+
 0.0.0.0 meta.com
 # Facebook
-0.0.0.0 facebook.com
-0.0.0.0 www.facebook.com
-0.0.0.0 fb.com
+:: facebook.com
+:: www.facebook.com
+:: fb.com
 0.0.0.0 www.fb.com
 0.0.0.0 fbcdn.net
 0.0.0.0 www.fbcdn.net
@@ -27,31 +27,18 @@
 0.0.0.0 ads.facebook.com
 0.0.0.0 an.facebook.com
 0.0.0.0 creative.ak.fbcdn.net
-0.0.0.0 external.xx.fbcdn.net[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://github.com/Bundy01/meta-blocklists?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "1")
+0.0.0.0 external.xx.fbcdn.net
 0.0.0.0 b-graph-fallback.facebook.com
 b-graph.facebook.com
 0.0.0.0 graph-fallback.facebook.com
-0.0 0 0 graph.facebook.com
 0 0.0.0 graph.fbpigeon.com
 0.0.0.0 z-m-graph.facebook.com
+:: web.facebook.com
+:: web-fallback.facebook.com
+:: mqtt-mini.facebook.com
+:: star.c10r.facebook.com
+:: star.fallback.c10r.facebook.com
 
-# Facebook lite app (messages/notifications), Instagram application settings (slow loading)
-web.facebook.com
-web-fallback.facebook.com
-
-# Other Facebook functions, unblocking may not be needed
-connect.facebook.com
-connect.facebook.net
-mqtt-mini.facebook.com
-
-# Unblock if you use Whatsapp avatar creator, helpcenter or video effects
-graph.whatsapp.com
-graph.whatsapp.net
-
-# Not blocked, but essential
-star.c10r.facebook.com
-star.fallback.c10r.facebook.com
-#
 # WhatsApp
 0.0.0.0 whatsapp.com
 0.0.0.0 www.whatsapp.com
@@ -61,7 +48,9 @@ star.fallback.c10r.facebook.com
 0.0.0.0 static.whatsapp.net
 0.0.0.0 mms.whatsapp.net
 0.0.0.0 mmg.whatsapp.net
-#
+:: graph.whatsapp.com
+:: graph.whatsapp.net
+
 # Instagram
 0.0.0.0 instagram.com
 0.0.0.0 www.instagram.com
@@ -76,53 +65,53 @@ star.fallback.c10r.facebook.com
 0.0.0.0 help.instagram.com
 0.0.0.0 ssl.instagram.com
 0.0.0.0 ads.instagram.com
-#
+
 # Messenger
 0.0.0.0 messenger.com
 0.0.0.0 www.messenger.com
 0.0.0.0 m.me
 0.0.0.0 messenger-xyz.com
 0.0.0.0 www.messenger-xyz.com
-#
+
 # Threads
 0.0.0.0 threads.com
 0.0.0.0 www.threads.com
-#
+
 # Meta Quest
 0.0.0.0 oculus.com
 0.0.0.0 www.oculus.com
 0.0.0.0 metaquest.com
 0.0.0.0 www.metaquest.com
-#
+
 # Horizon Worlds
 0.0.0.0 horizon.com
 0.0.0.0 www.horizon.com
 0.0.0.0 horizonworlds.com
 0.0.0.0 www.horizonworlds.com
-#
+
 # Ray-Ban Stories
 0.0.0.0 ray-ban.com
 0.0.0.0 www.ray-ban.com
 0.0.0.0 rayban.com
 0.0.0.0 www.rayban.com
-#
+
 # Mapillary
 0.0.0.0 mapillary.com
 0.0.0.0 www.mapillary.com
-#
+
 # Workplace
 0.0.0.0 workplace.com
 0.0.0.0 www.workplace.com
 0.0.0.0 work.fb.com
 0.0.0.0 workplace.fb.com
-#
+
 # Portal
 0.0.0.0 portal.facebook.com
-#
+
 # Diem (Libra)
 0.0.0.0 diem.com
 0.0.0.0 www.diem.com
-#
+
 # Meta Trackers
 0.0.0.0 atdmt.com
 0.0.0.0 login.facebook.com
@@ -137,7 +126,7 @@ star.fallback.c10r.facebook.com
 0.0.0.0 z-2-scontent.xx.fbcdn.net
 0.0.0.0 z-m-static.xx.fbcdn.net
 0.0.0.0 z-p3.static.xx.fbcdn.net
-#
+
 # X (Twitter)
 0.0.0.0 www.twitter.com
 0.0.0.0 twitter.com
@@ -184,3 +173,29 @@ star.fallback.c10r.facebook.com
 0.0.0.0 spring-chicken-an.twitter.com
 0.0.0.0 spruce-goose-ae.twitter.com
 0.0.0.0 takeflight.twitter.com
+
+# Apple
+:: apple.com
+:: www.apple.com
+:: aaplimg.com
+:: apple-dns.net
+:: cdn-apple.com
+:: mzstatic.com
+:: apple.news
+:: apple-mapkit.com
+:: albert.apple.com
+:: captive.apple.com
+:: gs.apple.com
+:: humb.apple.com
+:: static.ips.apple.com
+:: sq-device.apple.com
+:: tbsc.apple.com
+:: time-ios.apple.com
+:: time.apple.com
+:: time-macos.apple.com
+:: *.push.apple.com
+:: deviceenrollment.apple.com
+:: deviceservices-external.apple.com
+:: gdmf.apple.com
+:: identity.apple.com
+:: iprofiles.apple.com
