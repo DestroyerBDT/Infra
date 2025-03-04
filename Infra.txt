@@ -192,4 +192,4 @@
 0.0.0.0 tbsc.apple.com
 
 # Quora
-0.0.0.0 www.quora.com
+188.245.152.73 www.quora.com
