@@ -2,7 +2,7 @@
 # Description: blocks all Meta services
 # Homepage: https://github.com/DestroyerBDT/Infra
 # Last modified: 24 Feb 2025
-# Version: 5.3
+# Version: 5.4
 # Syntax: Hosts
 
 0.0.0.0 meta.com
@@ -192,4 +192,4 @@
 0.0.0.0 tbsc.apple.com
 
 # Quora
-188.245.152.73 www.quora.com
+0.0.0.0 www.quora.com
