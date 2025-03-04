@@ -17,6 +17,7 @@ A hosts file to block a wide range of Meta, Apple & X (*Twitter*) services, incl
   - Diem (Libra)
 - X (*Twitter*)
 - Apple
+- Quora
 
 # Usage
 
