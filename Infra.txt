@@ -190,3 +190,6 @@
 0.0.0.0 static.ips.apple.com
 0.0.0.0 sq-device.apple.com
 0.0.0.0 tbsc.apple.com
+
+# Quora
+0.0.0.0 www.quora.com
