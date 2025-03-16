@@ -5,7 +5,9 @@
 # Version: 5.4
 # Syntax: Hosts
 
+# Meta
 0.0.0.0 meta.com
+
 # Facebook
 0.0.0.0 facebook.com
 0.0.0.0 www.facebook.com
@@ -112,7 +114,7 @@
 0.0.0.0 diem.com
 0.0.0.0 www.diem.com
 
-# Meta Trackers
+# Trackers
 0.0.0.0 atdmt.com
 0.0.0.0 login.facebook.com
 0.0.0.0 bigzipfiles.facebook.com
@@ -126,6 +128,7 @@
 0.0.0.0 z-2-scontent.xx.fbcdn.net
 0.0.0.0 z-m-static.xx.fbcdn.net
 0.0.0.0 z-p3.static.xx.fbcdn.net
+
 
 # X (Twitter)
 0.0.0.0 www.twitter.com
@@ -174,6 +177,7 @@
 0.0.0.0 spruce-goose-ae.twitter.com
 0.0.0.0 takeflight.twitter.com
 
+
 # Apple
 0.0.0.0 apple.com
 0.0.0.0 www.apple.com
@@ -190,6 +194,7 @@
 0.0.0.0 static.ips.apple.com
 0.0.0.0 sq-device.apple.com
 0.0.0.0 tbsc.apple.com
+
 
 # Quora
 0.0.0.0 www.quora.com
