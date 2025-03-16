@@ -1,7 +1,7 @@
 # Title: Infra
 # Description: blocks all Meta services
 # Homepage: https://github.com/DestroyerBDT/Infra
-# Last modified: 24 Feb 2025
+# Last modified: 16 Mar 2025
 # Version: 5.5
 # Syntax: Hosts
 
