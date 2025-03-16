@@ -2,13 +2,28 @@
 # Description: blocks all Meta services
 # Homepage: https://github.com/DestroyerBDT/Infra
 # Last modified: 16 Mar 2025
-# Version: 5.6
+# Version: 5.7
 # Syntax: Hosts
 
 
 
 # Meta
 0.0.0.0 meta.com
+
+# Trackers
+0.0.0.0 atdmt.com
+0.0.0.0 login.facebook.com
+0.0.0.0 bigzipfiles.facebook.com
+0.0.0.0 bigzipfiles2.facebook.com
+0.0.0.0 fbstatic-a.akamaihd.net
+0.0.0.0 graph.instagram.com
+0.0.0.0 graph.oculus.com
+0.0.0.0 oculusgraph.facebook.net
+0.0.0.0 creative.ak.fbcdn.net
+0.0.0.0 z-1-scontent.xx.fbcdn.net
+0.0.0.0 z-2-scontent.xx.fbcdn.net
+0.0.0.0 z-m-static.xx.fbcdn.net
+0.0.0.0 z-p3.static.xx.fbcdn.net
 
 # Facebook
 0.0.0.0 facebook.com
@@ -115,21 +130,6 @@
 # Diem (Libra)
 0.0.0.0 diem.com
 0.0.0.0 www.diem.com
-
-# Trackers
-0.0.0.0 atdmt.com
-0.0.0.0 login.facebook.com
-0.0.0.0 bigzipfiles.facebook.com
-0.0.0.0 bigzipfiles2.facebook.com
-0.0.0.0 fbstatic-a.akamaihd.net
-0.0.0.0 graph.instagram.com
-0.0.0.0 graph.oculus.com
-0.0.0.0 oculusgraph.facebook.net
-0.0.0.0 creative.ak.fbcdn.net
-0.0.0.0 z-1-scontent.xx.fbcdn.net
-0.0.0.0 z-2-scontent.xx.fbcdn.net
-0.0.0.0 z-m-static.xx.fbcdn.net
-0.0.0.0 z-p3.static.xx.fbcdn.net
 
 
 # X (Twitter)
